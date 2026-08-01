@@ -234,7 +234,3 @@ For support, please open an issue in the GitHub repository or contact the mainta
 - Built with advanced AI language models
 - Inspired by modern AI-assisted development tools
 - Designed for seamless integration into development workflows
-
----
-
-**Made with ❤️ by Suvradip01**
